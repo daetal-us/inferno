@@ -1,4 +1,4 @@
-<img src="http://daetal.us/static/media/inferno.png" align="right">
+<img src="http://daetal.us/static/media/inferno.png" align="right" width="35%">
 
 # Inferno
 
