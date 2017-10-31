@@ -2,4 +2,10 @@
 
 # Inferno
 
-_A [docker composition](//docs.docker.com/compose) pairing an instance of [Grotto](//github.com/daetal-us/grotto)_ with an instance of [Postgres](//postgres.org)
+_A [docker](//docker.com) [composition](//docs.docker.com/compose) pairing an instance of [Grotto](//github.com/daetal-us/grotto)_ with an instance of [Postgres](//postgres.org)
+
+## Usage
+
+```bash
+docker-compose up
+```
